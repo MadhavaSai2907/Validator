@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageId>TokenValidate</PackageId>
+        <Version>1.0.0</Version>
+        <Authors>Madhav</Authors>
+        <Company>QR</Company>
+        <license >license\license.txt</license>
+        <PackageDescription>Token Validation</PackageDescription>
+        <RepositoryUrl>https://github.com/MadhavaSai2907/Validator</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
